@@ -1,4 +1,4 @@
-""" All tasks come from www.codewars.com """
+"""All tasks come from www.codewars.com"""
 
 """Description:
 In this simple assignment you are given a number and have
@@ -13,7 +13,11 @@ Notes:
 
 The number can be negative already, in which case no change is required.
 Zero (0) is not checked for any specific sign. Negative zeros
-make no mathematical sense."""
+make no mathematical sense.
+
+Kata sensei Deantwo
+"""
+
 
 def make_negative( number ):
     return abs(number)*-1
