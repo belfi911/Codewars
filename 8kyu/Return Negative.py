@@ -18,7 +18,5 @@ make no mathematical sense.
 Kata sensei Deantwo
 """
 
-
 def make_negative( number ):
     return abs(number)*-1
-
